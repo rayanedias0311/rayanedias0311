@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rayane</h1>
 <h3 align="center">A passionate student developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Data Analysis**
+- 🔭 I’m currently working with **Data Analysis**
 
 - 🌱 I’m currently learning **Java**
 
